@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{39D50777-D947-42C1-994B-5C4A85E0725C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization", "Authorization\Authorization.csproj", "{3119CB78-4D81-4206-8413-DAF875FC73B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D50777-D947-42C1-994B-5C4A85E0725C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D50777-D947-42C1-994B-5C4A85E0725C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D50777-D947-42C1-994B-5C4A85E0725C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D50777-D947-42C1-994B-5C4A85E0725C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3119CB78-4D81-4206-8413-DAF875FC73B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3119CB78-4D81-4206-8413-DAF875FC73B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3119CB78-4D81-4206-8413-DAF875FC73B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3119CB78-4D81-4206-8413-DAF875FC73B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
